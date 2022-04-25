@@ -18,7 +18,7 @@ user to use this system. Thus, by this all it proves it is user-friendly.
 - Readers are the one who just read operations on the news.
 - Readers are allowed to like comment and share the News
 
-1.1 Problem Definition
+# Problem Definition
 Online Blogging System, as described above, can lead to error free, secure, reliable and
 fast management system. It can assist the user to concentrate on their other activities rather to
 concentrate on the record keeping. Thus, it will help organization in better utilization of
@@ -32,7 +32,7 @@ details for your future goals. Also, for those busy executive who are always on 
 systems come with remote access features, which will allow you to manage your workforce
 anytime, always. These systems will ultimately allow you to better manage resources.
 
-1.2 Need
+# Need
 The main necessity of the Project on Online Blogging System is to manage the details of
 Blogs, Idea, Topic, Entries, Views. It manages all the information about Blogs, Content, Views,
 Blogs. The project is totally built at administrative end and thus only the administrator is
